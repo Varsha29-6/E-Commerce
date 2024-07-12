@@ -44,7 +44,7 @@ export default function ClientNavbar() {
   }
 
   return (
-    <div className="fixed z-50 h-16 w-full bg-slate-600 ">
+    <div className="fixed z-50 h-12 w-full bg-slate-600 ">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2 sm:px-6 lg:px-8 ">
         <div className="inline-flex items-center space-x-2 ">
           <span>
